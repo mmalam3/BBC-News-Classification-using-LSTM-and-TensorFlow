@@ -10,7 +10,7 @@ The [BBC News Classification](https://www.kaggle.com/competitions/learn-ai-bbc/d
 
 ## Usage
 
-To run this project, open the notebook [bbc_news_classification.ipynb[(https://github.com/kayanmorshed/BBC-News-Classification-using-LSTM/blob/main/bbc_news_classification.ipynb) in Google Colab and start executing each cell as instructed. The notebook contains detailed instructions about how to download the dataset correctly from Kaggle, and the only thing you need is to download the `kaggle.json` file from your account.  
+To run this project, open the notebook [bbc_news_classification.ipynb](https://github.com/kayanmorshed/BBC-News-Classification-using-LSTM/blob/main/bbc_news_classification.ipynb) in Google Colab and start executing each cell as instructed. The notebook contains detailed instructions about how to download the dataset correctly from Kaggle, and the only thing you need is to download the `kaggle.json` file from your account.  
 
 
 ## Evaluation
