@@ -6,7 +6,7 @@ The classifier designed in this project is a deep neural network with one `Embed
 
 ## Dataset
 
-The [BBC News Classification](https://www.kaggle.com/competitions/learn-ai-bbc/data) dataset is used in this project for training and testing the models. The dataset provides comprises of 2225 articles, each labeled under one of 5 categories: `business`, `entertainment`, `politics`, `sport` or `tech`. It is parted into 1490 records for training and 735 for testing.
+The [BBC News Classification](https://www.kaggle.com/competitions/learn-ai-bbc/data) dataset is used in this project for training and testing the models. The dataset comprises of 2225 articles, each labeled under one of 5 categories: `business`, `entertainment`, `politics`, `sport` or `tech`. It is parted into two sets: 1) train set with 1490 records, and 2) test set with 735 records.
 
 ## Usage
 
